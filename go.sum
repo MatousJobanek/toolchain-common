@@ -114,8 +114,8 @@ github.com/magiconair/properties v1.8.5 h1:b6kJs+EmPFMYGkow9GiUyCyOvIwYetYJ3fSaW
 github.com/magiconair/properties v1.8.5/go.mod h1:y3VJvCyxH9uVvJTWEGAELF3aiYNyPKd5NZ3oSwXrF60=
 github.com/mailru/easyjson v0.7.7 h1:UGYAvKxe3sBsEDzO8ZeWOSlIQfWFlxbzLZe7hwFURr0=
 github.com/mailru/easyjson v0.7.7/go.mod h1:xzfreul335JAWq5oZzymOObrkdz5UnU4kGfJJLY9Nlc=
-github.com/matousjobanek/api v0.0.0-20260922084150-1165c49d5bd4 h1:dVuXzTHwfjB26x6rqjdT/a1pzEFPF8JGtJY/n2kP6ew=
-github.com/matousjobanek/api v0.0.0-20260922084150-1165c49d5bd4/go.mod h1:jkXNLbwYNA3rjOHZ6z6m8BsCs467LmveCapPQFfQZNY=
+github.com/matousjobanek/api v0.0.0-20260922091635-b2b32be3123b h1:3QhkqQJ+Pis9PKaA6xb0pkwLGphWNOK9E2h4iHeYg/8=
+github.com/matousjobanek/api v0.0.0-20260922091635-b2b32be3123b/go.mod h1:jkXNLbwYNA3rjOHZ6z6m8BsCs467LmveCapPQFfQZNY=
 github.com/mitchellh/copystructure v1.0.0 h1:Laisrj+bAB6b/yJwB5Bt3ITZhGJdqmxquMKeZ+mmkFQ=
 github.com/mitchellh/copystructure v1.0.0/go.mod h1:SNtv71yrdKgLRyLFxmLdkAbkKEFWgYaq1OVrnRcwhnw=
 github.com/mitchellh/reflectwalk v1.0.0 h1:9D+8oIskB4VJBN5SFlmc27fSlIBZaov1Wpk/IfikLNY=

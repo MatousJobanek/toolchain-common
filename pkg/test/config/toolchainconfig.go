@@ -298,7 +298,7 @@ func (o RegistrationServiceOption) AccountVerifierMode(value string) Registratio
 	return o
 }
 
-func (o RegistrationServiceOption) VerifiedTimestampExpiryDays(value int) RegistrationServiceOption {
+func (o RegistrationServiceOption) VerifiedTimestampExpiryDays(value uint) RegistrationServiceOption {
 	o.addFunction(func(config *toolchainv1alpha1.ToolchainConfig) {
 		config.Spec.Host.RegistrationService.VerifiedTimestampExpiryDays = &value
 	})
